@@ -1,0 +1,40 @@
+<body>
+    <h1>Tabela de Produtos</h1>
+
+<table border="1">
+  <tr>
+       <td>Produto</td>
+       <td>Descrição</td>
+       <td>Preço(R$)</td>
+  </tr>
+  <tr>
+       <td>Notebook</td>
+       <td>Computador portátil com 8GB de RAM
+       e 256GB de SSD</td>
+       <td>R$3.500,00</td>
+  </tr>
+  <tr> 
+       <td>Smartphone</td>
+       <td>Celular com câmera de 48MP e 128GB de 
+       memória interna</td>
+       <td>2.200,00</td>
+  </tr>
+  <tr> 
+       <td>Monitor</td>
+       <td>Monitor de 24 polegadas com resolução Full
+       HD</td>
+       <td>800,00</td>
+  </tr>
+  <tr> 
+       <td>Teclado</td>
+       <td>Teclado mecânico com iluminação RGB</td>
+       <td>250,00</td>
+  </tr>
+  <tr> 
+       <td>Mouse</td>
+       <td>Mouse sem fio com sensor óptico de alta
+       precisão</td>
+       <td>120,00</td>
+  </tr>
+</table>
+</body>
